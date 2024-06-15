@@ -1,1 +1,1 @@
-export default function Home() {    return (        <div>            HI        </div>    );}
+import { useEffect } from 'react';import { useRouter } from 'next/router';export default function Home() {    const router = useRouter();    useEffect(() => {        router.push('/auth/signin');    }, []);    return null;}
