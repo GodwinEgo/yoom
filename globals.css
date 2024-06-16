@@ -4,4 +4,23 @@
 
 body {
     background-color: #161925;
+    color: #C9DDFF;
+}
+
+.Toastify__toast {
+    background-color: #1C1F2E !important;
+    color: #C9DDFF !important;
+}
+
+.Toastify__progress-bar {
+    background-color: #0E78F9 !important;
+}
+
+.Toastify__close-button {
+    color: #C9DDFF !important;
+}
+
+.Toastify__toast--hover {
+    background-color: #0E78F9 !important;
+    color: #C9DDFF !important;
 }

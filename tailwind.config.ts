@@ -39,6 +39,10 @@ const config = {
                 lightBlue: "#1E0E62",
                 customLightGray: "#15143966",
                 secondary: "#CFE2FC",
+                newCard: "#FF742E",
+                joinCard: "#0E78F9",
+                scheduleCard: "#830EF9",
+                viewCard: "#F9A90E",
             },
             fontSize: {
                 normal: "1.125rem"
